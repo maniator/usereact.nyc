@@ -31,7 +31,7 @@
     "babel-eslint": "^7.2.3",
     "change-case": "^3.0.1",
     "classnames": "^2.2.6",
-    "disqus-react": "^1.0.5",
+    "disqus-react": "^1.0.6",
     "gatsby": "next",
     "gatsby-link": "next",
     "gatsby-plugin-glamor": "next",
