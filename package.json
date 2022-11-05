@@ -32,7 +32,7 @@
     "change-case": "^3.0.1",
     "classnames": "^2.2.6",
     "disqus-react": "^1.0.5",
-    "gatsby": "next",
+    "gatsby": "3.0.0",
     "gatsby-link": "next",
     "gatsby-plugin-glamor": "next",
     "gatsby-plugin-google-analytics": "next",
@@ -57,7 +57,7 @@
     "react-hooks-window-size": "^0.1.0",
     "semantic-ui-react": "^0.82.3",
     "slash": "1.0.0",
-    "ts-loader": "^2.3.7",
+    "ts-loader": "^8.0.14",
     "typescript": "^2.8.0"
   },
   "devDependencies": {
