@@ -28,7 +28,7 @@
     "@types/react-helmet": "^5.0.8",
     "@types/semantic-ui": "^2.2.6",
     "axios": "^0.18.0",
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^10.1.0",
     "change-case": "^3.0.1",
     "classnames": "^2.2.6",
     "disqus-react": "^1.0.5",
