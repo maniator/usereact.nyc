@@ -32,7 +32,7 @@
     "change-case": "^3.0.1",
     "classnames": "^2.2.6",
     "disqus-react": "^1.0.5",
-    "gatsby": "next",
+    "gatsby": "2.32.8",
     "gatsby-link": "next",
     "gatsby-plugin-glamor": "next",
     "gatsby-plugin-google-analytics": "next",
